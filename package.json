@@ -1,0 +1,21 @@
+{
+  "name": "img-metadata-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
+  "dependencies": {
+    "exif-parser": "^0.1.12",
+    "geo-tools": "^0.1.2",
+    "geocoder": "^0.2.3",
+    "local-reverse-geocoder": "^0.3.2",
+    "reverse-geocoding": "^2.0.0"
+  }
+}
