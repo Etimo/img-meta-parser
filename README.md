@@ -1,1 +1,1 @@
-# image-tag-parser
+# img-meta-parser
